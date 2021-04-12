@@ -10,6 +10,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/lab3/iter_helpers.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/lab3/linked_list.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/lab3/utils.py">
           <value>
             <Attribute>
